@@ -23,7 +23,7 @@ body {
 
 .containerpc {
     height: 100%;
-    background-image: url(../../images/5195sharp.jpg);
+    background-image: url("../images/5195sharp.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Droid Sans', sans-serif;
@@ -528,13 +528,13 @@ body {
 
 .article {
     height: 350px;
-    background-image: url(../../images/pressarticleog.png);
+    background-image: url("../images/pressarticleog.png");
     background-size: cover;
     background-repeat: no-repeat;
     transition: 1s linear;
 }
 
 .article:hover {
-    background-image: url(../../images/pressarticlehover.png);
+    background-image: url("../images/pressarticlehover.png");
     transition: 1s linear;
 }
